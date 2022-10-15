@@ -1,0 +1,32 @@
+.landing {
+    background-image: url(../img/Cover.png);
+    height: 880px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center Top;
+  }
+
+.text-footer {
+    color: white;
+}
+
+*{padding:0;margin:0;}
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#000080;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+.plus{
+    height: 30px;
+}
+
+.logo-button{
+    height: 10px;
+}
